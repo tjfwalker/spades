@@ -14,5 +14,6 @@
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.2",
     "stylus": "0.54.5"
-  }
+  },
+  "license": "MPL-2.0"
 }
